@@ -11,7 +11,7 @@
     height: 400px;
     margin: 10px;
 }
-.Testimonial
+section
 {
     margin: 20px;
     padding:30px 20px;
@@ -19,8 +19,12 @@
     color:black;
     
 }
- .Testimonial h1
+  h2
 {
 text-align: end;
 font-style: italic;
+}
+h1
+{
+	margin:20px
 }
