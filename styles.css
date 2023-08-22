@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color:#f5f5f5;
+    text-transform: capitalize;
+    height: 400px;
+    margin: 10px;
+}
+.Testimonial
+{
+    margin: 20px;
+    padding:30px 20px;
+    background-color:white;
+    color:black;
+    
+}
+ .Testimonial h1
+{
+text-align: end;
+font-style: italic;
+}
